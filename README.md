@@ -1,2 +1,2 @@
 # Carbonate-budget
-Carbonate budget sources
+This repository contains the full R code (Submission_ProceedingsB_ScriptR) and supporting documentation (Data_submission_20250623) for analyzing coral morph productivity across different environmental or experimental scenarios. The analysis focuses on identifying how different calcifying community contribute to changes in community calcium carbonate productivity and erosion and how these differences vary between tropicalisation state.
